@@ -4,8 +4,25 @@
 
 ### **Welcome to Business Insights 360 - Your Gateway to Data-Driven Decision Making!**
 
-This project is a comprehensive Power BI dashboard developed to analyze and visualize key performance metrics across various departments at AtliQ Hardware. It provides actionable insights into finance, sales, marketing, supply chain, and executive operations, empowering stakeholders to make informed decisions for strategic growth.
+#### Project Overview:
 
+This project is a comprehensive Power BI dashboard developed to analyze and visualize key performance metrics across various departments at AtliQ Hardware.
+
+AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
+
+## Tech stacks
+
+*SQL
+
+*PowerBi Desktop
+
+*Excel
+
+*DAX language
+
+*DAX studio (for optimizing the report)
+
+*Project charter file
 
 **Features**
 
@@ -27,17 +44,42 @@ This project is a comprehensive Power BI dashboard developed to analyze and visu
 
 -**MySQL Database**: Essential facts and dimensions for all departments are pulled from a MySQL database.
 
-**Skills Learned**
+## PowerBI techniques Learnt:
 
--Power BI data modeling
+-What are all the questions should be asked before staring the project
 
--DAX calculations
+-Creating calculated columns
 
--Compelling visualization techniques
+-creating measure using DAX language
 
--Data interpretation
+-Data modeling
 
--Dashboard design principles
+-Using Bookmarks to switch between two visuals
+
+-Page navigation with buttons
+
+-Using divide function to prevent zero division errors
+
+-creating date table using m language
+
+-Dynamic titles based on the applied filters
+
+-Using KPI indicators
+
+-Conditional formatting the values in visuals using icons or background color
+
+-Data validation techniques
+
+-PowerBi services
+
+-Publishing reports to PowerBi services
+
+-Setting up personal gateway to set up the auto refresh of data
+
+-PowerBi App creation
+
+-Collaboration, workspace, access permissions in PowerBi services
+And more 
 
 -User-centric design
 
@@ -46,4 +88,8 @@ This project is a comprehensive Power BI dashboard developed to analyze and visu
 -File size optimization using DAX Studio
 
 -Data integration from various sources like Excel/CSV files, MySQL database, etc.
+
+## Project Outcome
+
+By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
 
