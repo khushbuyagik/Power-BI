@@ -1,7 +1,7 @@
-**Business Insights 360**
+#Business Insights 360
 
 
---Welcome to Business Insights 360 - Your Gateway to Data-Driven Decision Making!
+-Welcome to Business Insights 360 - Your Gateway to Data-Driven Decision Making!
 
 --This project is a comprehensive Power BI dashboard developed to analyze and visualize key performance metrics across various departments at AtliQ Hardware. It provides actionable insights into finance, sales, marketing, supply chain, and executive operations, empowering stakeholders to make informed decisions for strategic growth.
 
@@ -19,11 +19,11 @@
 
 **Data Sources**
 
--The dashboard gathers data from two primary sources:
+##The dashboard gathers data from two primary sources:
 
-**Excel/CSV Files**: Targets and Market Share data, along with related information, are collected from Excel and CSV files.
+-**Excel/CSV Files**: Targets and Market Share data, along with related information, are collected from Excel and CSV files.
 
-**MySQL Database**: Essential facts and dimensions for all departments are pulled from a MySQL database.
+-**MySQL Database**: Essential facts and dimensions for all departments are pulled from a MySQL database.
 
 **Skills Learned**
 
