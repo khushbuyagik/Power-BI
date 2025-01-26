@@ -44,6 +44,10 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 -**MySQL Database**: Essential facts and dimensions for all departments are pulled from a MySQL database.
 
+### Have a look for live dashboard:
+
+Click here(https://lnkd.in/d658Fnn2)
+
 ## PowerBI techniques Learnt:
 
 -What are all the questions should be asked before staring the project
