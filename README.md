@@ -19,7 +19,7 @@ This project is a comprehensive Power BI dashboard developed to analyze and visu
 
 -Executive View: Get high-level insights with KPI cards and revenue breakdowns.
 
-## Data Sources
+### **Data Sources**
 
 **The dashboard gathers data from two primary sources:**
 
