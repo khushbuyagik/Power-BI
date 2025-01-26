@@ -1,4 +1,4 @@
-#Business Insights 360
+# Business Insights 360
 
 
 -Welcome to Business Insights 360 - Your Gateway to Data-Driven Decision Making!
@@ -17,9 +17,9 @@
 
 -Executive View: Get high-level insights with KPI cards and revenue breakdowns.
 
-**Data Sources**
+## Data Sources
 
-##The dashboard gathers data from two primary sources:
+**The dashboard gathers data from two primary sources:**
 
 -**Excel/CSV Files**: Targets and Market Share data, along with related information, are collected from Excel and CSV files.
 
