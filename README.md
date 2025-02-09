@@ -97,3 +97,14 @@ And more
 
 By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
 
+![B1](https://github.com/user-attachments/assets/a52c495a-38f9-4c69-91de-7d98db72161b)
+![B2](https://github.com/user-attachments/assets/5574b02c-1f63-407c-814f-8927da1e5be8)
+![B3](https://github.com/user-attachments/assets/3c39e5e7-a349-472c-90ac-4ceb236557cc)
+![B4](https://github.com/user-attachments/assets/eab0033e-9a80-48d0-aca7-9c41cf83fe00)
+![B5](https://github.com/user-attachments/assets/d3f713b9-eaf2-43fb-b92c-17be52f38db2)
+![B6](https://github.com/user-attachments/assets/3ffb5272-ad30-4122-8fc4-bc19f71747af)
+![B7](https://github.com/user-attachments/assets/fc2fd8e9-cb2c-4273-84f8-97a01f4a28d8)
+
+
+
+
